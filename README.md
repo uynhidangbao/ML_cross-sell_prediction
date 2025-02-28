@@ -14,7 +14,7 @@
 
 <h2> Experimental method/model & Evaluation </h2>
 •	Model Selection Method: 
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/8068ceb4-fcd9-4fe8-971c-f63f3f319f1e" />
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/8068ceb4-fcd9-4fe8-971c-f63f3f319f1e" /> <br>
 •	Hold-out strategy: 
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/04a5ab4c-5e64-4daf-8d5a-8560dc510658" />
 
